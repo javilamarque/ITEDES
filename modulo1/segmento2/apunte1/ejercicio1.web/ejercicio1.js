@@ -10,4 +10,6 @@ function saludar(){
 
 	const calle2 = prompt ('Y la calle ');
 		alert(`Y la calle: ${calle2}`);
+
+		alert('la comisaria esta en la calle: ' + direccion + ' entre la calle: ' + calle1 + ' y la calle: ' + calle2 + ' en el barrio de: ' + barrio);
 }
