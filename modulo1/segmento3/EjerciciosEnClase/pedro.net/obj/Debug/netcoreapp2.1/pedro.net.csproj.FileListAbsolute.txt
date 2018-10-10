@@ -1,0 +1,11 @@
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.csprojAssemblyReference.cache
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.csproj.CoreCompileInputs.cache
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.AssemblyInfoInputs.cache
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.AssemblyInfo.cs
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.deps.json
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.runtimeconfig.json
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.runtimeconfig.dev.json
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.dll
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.pdb
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.dll
+/home/javier/itedes/modulo1/segmento3/EjerciciosEnClase/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.pdb
