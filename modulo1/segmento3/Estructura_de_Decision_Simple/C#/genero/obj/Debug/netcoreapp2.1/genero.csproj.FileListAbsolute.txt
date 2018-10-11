@@ -1,0 +1,11 @@
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/obj/Debug/netcoreapp2.1/genero.csprojAssemblyReference.cache
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/obj/Debug/netcoreapp2.1/genero.csproj.CoreCompileInputs.cache
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/obj/Debug/netcoreapp2.1/genero.AssemblyInfoInputs.cache
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/obj/Debug/netcoreapp2.1/genero.AssemblyInfo.cs
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/bin/Debug/netcoreapp2.1/genero.deps.json
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/bin/Debug/netcoreapp2.1/genero.runtimeconfig.json
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/bin/Debug/netcoreapp2.1/genero.runtimeconfig.dev.json
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/bin/Debug/netcoreapp2.1/genero.dll
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/bin/Debug/netcoreapp2.1/genero.pdb
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/obj/Debug/netcoreapp2.1/genero.dll
+/home/javier/itedes/modulo1/segmento3/Estructura_de_Decision_Simple/C#/genero/obj/Debug/netcoreapp2.1/genero.pdb
