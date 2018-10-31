@@ -1,0 +1,11 @@
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/obj/Debug/netcoreapp2.1/dotnet.csprojAssemblyReference.cache
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/obj/Debug/netcoreapp2.1/dotnet.csproj.CoreCompileInputs.cache
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/obj/Debug/netcoreapp2.1/dotnet.AssemblyInfoInputs.cache
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/obj/Debug/netcoreapp2.1/dotnet.AssemblyInfo.cs
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/bin/Debug/netcoreapp2.1/dotnet.deps.json
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/bin/Debug/netcoreapp2.1/dotnet.runtimeconfig.json
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/bin/Debug/netcoreapp2.1/dotnet.runtimeconfig.dev.json
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/bin/Debug/netcoreapp2.1/dotnet.dll
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/bin/Debug/netcoreapp2.1/dotnet.pdb
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/obj/Debug/netcoreapp2.1/dotnet.dll
+/home/javier/itedes/modulo1/segmento3/apunte3/ejercicio2/dotnet/obj/Debug/netcoreapp2.1/dotnet.pdb
