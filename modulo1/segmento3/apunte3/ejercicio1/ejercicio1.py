@@ -1,19 +1,21 @@
-num = int(input("Ingrese un numero del 1 al 7 para descubrir el dia: "))
+number1 = int(input("Ingrese un numero ")) 
+number2 = int(input("Ingrese un numero ")) 
+number3 = int(input("Ingrese un numero ")) 
 
-if (num == 1):
-	print("Lunes")
-elif (num == 2):
-	print("Martes")
-elif (num == 3):
-	print("Miercoles")
-elif (num == 4):
-	print("Jueves")
-elif (num == 5):
-	print("Viernes")
-elif (num == 6):
-	print("Sabado")
-elif (num == 7):
-	print("Domingo")
+if number1 >= number2 and number2 >=  number3:
+    print(str(number1) + "-"+ str(number2) + "-" + str(number3) )
+
+elif number2 >= number3 and number3 >=  number1:
+    print(str(number2) + "-"+ str(number3) + "-" + str(number1) )
+			
+elif number3 >= number1 and number1 >=  number2:
+    print(str(number3) + "-"+ str(number1) + "-" + str(number2) )
+
+elif number1 >= number3 and number3 >=  number2:
+    print(str(number1) + "-"+ str(number3) + "-" + str(number2) )
+
+elif number2 >= number1 and number1 >=  number3:
+    print(str(number2) + "-"+ str(number1) + "-" + str(number3) )
 
 else:
-	print("Usted eligio un numero incorrecto fuera del 1 al 7 ")
+    print(str(number3) + "-"+ str(number2) + "-" + str(number1) )

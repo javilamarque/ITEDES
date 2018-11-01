@@ -1,36 +1,27 @@
-#!/bin/bash/
-declare -i numero=0
-read -p "Ingrese un numero del 1 al 7 para ver el correspondiente dia:  " numero
+#!/bin/bash
 
-if ((numero == 1))
-then 
-	echo "Lunes"
+read -p "Ingrese un numero: " num1
+read -p "Ingrese otro numero: " num2
+read -p "Ingrese otro numero: " num3
 
-elif ((numero == 2))
+
+if [[ "$num1" -ge "$num2" && "$num2" -ge "$num3" ]]
 then
-	echo "Martes"
-
-elif ((numero == 3))
+	echo "Numeros Ordenados de mayor a menor: " $num1,$num2,$num3
+elif [[ "$num2" -ge "$num3" && "$num3" -ge "$num1" ]]
 then
-	echo "Miercoles"
-
-elif ((numero == 4))
+    echo "Numeros Ordenados de mayor a menor: " $num2,$num3,$num1
+elif [[ "$num3" -ge "$num1" && "$num1" -ge "$num2" ]]
 then
-	echo "Jueves"
-
-elif ((numero == 5))
+	echo "Numeros Ordenados de mayor a menor: " $num3,$num1,$num2
+elif [[ "$num1" -ge "$num3" && "$num3" -ge "$num2" ]]
 then
-	echo "Viernes"
-
-elif ((numero == 6))
+    echo "Numeros Ordenados de mayor a menor: " $num1,$num3,$num2
+elif [[ "$num2" -ge "$num1" && "$num1" -ge "$num3" ]]
 then
-	echo "Sabado"
+    echo "Numeros Ordenados de mayor a menor: " $num2,$num1,$num3
+else
+    echo "Numeros Ordenados de mayor a menor: " $num3,$num2,$num1
 
-elif ((numero == 7))
-then
-	echo "Domingo"
-
-else 
-	echo "Usted no selecciono un numero del 1 al 7"
 fi
-exit
+

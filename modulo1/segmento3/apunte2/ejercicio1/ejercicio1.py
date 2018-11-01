@@ -1,4 +1,4 @@
-numero = int(input("Ingrese un numero entero: "))
+numero = int(input("Ingrese un numero entero para ver si es multiplo de 2: "))
 resto = numero % 2
 
 if resto != 0:
