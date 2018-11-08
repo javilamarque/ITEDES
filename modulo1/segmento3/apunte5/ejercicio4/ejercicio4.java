@@ -14,7 +14,7 @@ public class ejercicio4{
 			for(Integer i=0; i<=altura;i++){
 				linea="";
 				for(Integer j=0;j<=base;j++){
-					linea +="x";
+					linea+= "x";
 				}
 
 					System.out.println(linea);
