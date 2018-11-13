@@ -1,5 +1,6 @@
-numero = int(input("Ingrese un numero superior a 100 para detener el proceso: "))
+num = int(input("Ingrese un numero menor o igual a 100 para seguir o uno superior para salir: "))
 
+while (num <= 100):
+	print("el numero ingresado es: ", num)
 
-while numero >= "100":
-	
+	num = int(input("Ingrese un numero menor o igual a 100 para seguir o uno superior para salir: "))
