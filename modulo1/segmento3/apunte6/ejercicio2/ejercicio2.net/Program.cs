@@ -22,8 +22,6 @@ namespace ejercicio2.net
 			String salir = Console.ReadLine();
 
 			while (salir != "n") {
-			Console.WriteLine("Desea realizar otra operacion? (s/n) ");
-			
 			
 			Console.Write("Ingrese el primer numero para la suma: ");
 				num1 = int.Parse(Console.ReadLine());
