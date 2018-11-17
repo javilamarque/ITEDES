@@ -1,0 +1,11 @@
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/obj/Debug/netcoreapp2.1/ejercicio5.net.csprojAssemblyReference.cache
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/obj/Debug/netcoreapp2.1/ejercicio5.net.csproj.CoreCompileInputs.cache
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/obj/Debug/netcoreapp2.1/ejercicio5.net.AssemblyInfoInputs.cache
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/obj/Debug/netcoreapp2.1/ejercicio5.net.AssemblyInfo.cs
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/bin/Debug/netcoreapp2.1/ejercicio5.net.deps.json
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/bin/Debug/netcoreapp2.1/ejercicio5.net.runtimeconfig.json
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/bin/Debug/netcoreapp2.1/ejercicio5.net.runtimeconfig.dev.json
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/bin/Debug/netcoreapp2.1/ejercicio5.net.dll
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/bin/Debug/netcoreapp2.1/ejercicio5.net.pdb
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/obj/Debug/netcoreapp2.1/ejercicio5.net.dll
+/home/javier/itedes/modulo1/segmento3/apunte6/ejercicio5/ejercicio5.net/obj/Debug/netcoreapp2.1/ejercicio5.net.pdb
