@@ -9,32 +9,39 @@ def agregarAlumno(alumnos):
 
 	return alumnos
 
+
 def listarAlumnos(alumnos):
 	for alumno in alumnos:
 		print('DNI: ' + str(alumno['dni']))
 		print('Apellido: ' + alumno['apellido'])
 		print('Nombre: ' + alumno['nombre'])
 		print()
+
+
 def buscadorPorDNI(alumnos, dni):
 	for alumno in alumnos:
 		if alumno['dni'] == dni:
 			print('DNI: ' + str(alumno['dni']))
 			print('Apellido: ' + alumno['apellido'])
 			print('nombre: ' + alumno['nombre'])
+		print()
 
-def EliminarPorDNI(alumnos, dni):
+
+def eliminarPorDNI(alumnos, dni):
 	for alumno in alumnos:
 		if alumno['dni'] == dni:
-			print('DNI: ' + str(alumno['dni']))
-			print('apellido: ' + alumno['apellido'])
-			print('nombre: ' + alumno['nombre'])
+			alumnos.remove(alumno)
+	
+	return alumnos
 
-def EliminarPorApellido(alumnos, dni):
+
+def eliminarPorApellido(alumnos, dni):
 	for alumno in alumnos:
 		if alumno['apellido'] == apellido:
-			print('DNI: ' + str(alumno['dni']))
-			print('apellido: ' + alumno['apellido'])
-			print('nombre: ' + alumno['nombre'])
+			alumnos.remove(alumno)
+	return alumnos
+
+
 #Main
 alumnos = []
 
@@ -65,9 +72,9 @@ while opcion != 0:
 		buscadorPorDNI(alumnos, dni)
 	elif opcion == 4:
 		dni = int(input('DNI? '))
-		EliminarPorDNI(alumnos, dni)
+		alumnos = eliminarPorDNI(alumnos, dni)
 	elif opcion == 5:
 		apellido = input('apellido ')
-		EliminarPorApellido(alumnos, apellido)
+		alumnos = eliminarPorApellido(alumnos, apellido)
 	elif opcion == 0:
 			print('Adios!')
