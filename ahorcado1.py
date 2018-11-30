@@ -1,3 +1,4 @@
+import json
 def  generarBaseDatos ():
 	seguir="si"
 	listas=[]
@@ -7,7 +8,17 @@ def  generarBaseDatos ():
 		listas.append(lista)
 
 		seguir=input("Desea agregar otra palabra(si/no): ")
+
+	
+	with open('lista.json', 'r')as filein:
+		lista=json.load(filein)
+
+	
+	with open('lista.json', 'w')as fileout:
+		json.dump(listas, fileout)
+	
 	return listas
+
 
 def buscar(lista):
 	from random import randrange
