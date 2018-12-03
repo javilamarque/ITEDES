@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/javier/itedes/modulo1/segmento2/apunte1/ejercicio5/ejercicio5.net/ejercicio5.net.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

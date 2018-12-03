@@ -1,0 +1,53 @@
+{
+   // Use IntelliSense to find out which attributes exist for C# debugging
+   // Use hover for the description of the existing attributes
+   // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+   "version": "0.2.0",
+   "configurations": [
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Ejercicio5",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "console": "internalConsole",
+        "stopOnEntry": false,
+        "mainClass": "Ejercicio5",
+        "args": ""
+    },
+    {
+        "type": "java",
+        "name": "Debug (Attach)",
+        "request": "attach",
+        "hostName": "localhost",
+        "port": 0
+    },
+    {
+        "type": "java",
+        "name": "Debug (Launch)",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "console": "internalConsole",
+        "stopOnEntry": false,
+        "mainClass": "",
+        "args": ""
+    },
+    {
+        "name": ".NET Core Launch (console)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/modulo1/segmento3/apunte1/ejercicio1/ejercicio1.net/bin/Debug/netcoreapp2.1/C#.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/modulo1/segmento3/apunte1/ejercicio1/ejercicio1.net",
+        "console": "internalConsole",
+        "stopAtEntry": false,
+        "internalConsoleOptions": "openOnSessionStart"
+    },
+    {
+        "name": ".NET Core Attach",
+        "type": "coreclr",
+        "request": "attach",
+        "processId": "${command:pickProcess}"
+    }
+]
+}
