@@ -2,7 +2,7 @@ seguir = 'si'
 
 while seguir == 'si':
     num = int(input('Introdusca un numero para comenzar la operacion: '))
-    operacion = input('Que operacion desea realizar? (+ SUMA, - RESTA, * MULTIPLICASION, / DIVISION, ^ POTENCIA): ')
+    operacion = input('Que operacion desea realizar? ( + , - , * , / , ^ ): ')
     num2 = int(input('Introduzca otro numero para realizar la operacion seleccionada: '))
     potencia = num ** num2
     
